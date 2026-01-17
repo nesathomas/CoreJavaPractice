@@ -6,7 +6,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello, Java 17!");
-		System.out.println("now go to GIT");
+	
 	}
 
 }
